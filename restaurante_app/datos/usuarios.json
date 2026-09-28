@@ -1,0 +1,14 @@
+[
+    {
+        "identificacion": "0102030405",
+        "nombre": "Dennys Asqui",
+        "contrasena": "admin123",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "0912345678",
+        "nombre": "María López",
+        "contrasena": "maria123",
+        "rol": "Cliente"
+    }
+]
